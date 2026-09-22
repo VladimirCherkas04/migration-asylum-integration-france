@@ -1,0 +1,7 @@
+IMPORTANT — SYNTHETIC DATA
+
+All datasets in this project are fully synthetic and were generated exclusively
+for a public portfolio project demonstrating SQL, Python and Tableau skills.
+
+The data does not represent real individuals, real asylum cases, real government
+records, or confidential information. All values are illustrative.

@@ -1,0 +1,11 @@
+region_id,region,main_city,macro_area
+1,Île-de-France,Paris,North
+2,Auvergne-Rhône-Alpes,Lyon,East
+3,Nouvelle-Aquitaine,Bordeaux,Southwest
+4,Occitanie,Toulouse,South
+5,Hauts-de-France,Lille,North
+6,Provence-Alpes-Côte d'Azur,Marseille,South
+7,Grand Est,Strasbourg,East
+8,Pays de la Loire,Nantes,West
+9,Bretagne,Rennes,West
+10,Normandie,Rouen,North
