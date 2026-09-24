@@ -1,0 +1,11 @@
+region_id,records,employed,employment_rate,region,main_city
+1,1629,948,58.2,Île-de-France,Paris
+2,702,405,57.69,Auvergne-Rhône-Alpes,Lyon
+3,618,353,57.12,Nouvelle-Aquitaine,Bordeaux
+4,595,330,55.46,Occitanie,Toulouse
+5,495,298,60.2,Hauts-de-France,Lille
+6,553,317,57.32,Provence-Alpes-Côte d'Azur,Marseille
+7,562,317,56.41,Grand Est,Strasbourg
+8,330,192,58.18,Pays de la Loire,Nantes
+9,287,166,57.84,Bretagne,Rennes
+10,229,130,56.77,Normandie,Rouen

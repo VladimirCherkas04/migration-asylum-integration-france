@@ -1,0 +1,11 @@
+region_id,cases,accepted,acceptance_rate,region,main_city
+1,1363,420,30.81,Île-de-France,Paris
+2,471,139,29.51,Auvergne-Rhône-Alpes,Lyon
+3,303,87,28.71,Nouvelle-Aquitaine,Bordeaux
+4,339,117,34.51,Occitanie,Toulouse
+5,331,111,33.53,Hauts-de-France,Lille
+6,337,111,32.94,Provence-Alpes-Côte d'Azur,Marseille
+7,268,74,27.61,Grand Est,Strasbourg
+8,231,74,32.03,Pays de la Loire,Nantes
+9,206,62,30.1,Bretagne,Rennes
+10,151,39,25.83,Normandie,Rouen
